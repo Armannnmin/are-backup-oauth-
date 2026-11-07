@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy - ARE rclone backup</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Last updated: November 7, 2026</p>
+
+  <h2>About this application</h2>
+  <p>
+    ARE rclone backup is a personal backup configuration
+    using Restic and Rclone to store encrypted backups
+    in the user's Google Drive account.
+  </p>
+
+  <h2>Google Drive permissions</h2>
+  <p>
+    The application requests the Google Drive
+    drive.file permission to create and manage
+    files accessible to the application.
+  </p>
+
+  <h2>Data processing</h2>
+  <p>
+    Backup contents are encrypted locally by Restic
+    before being transferred to Google Drive.
+    OAuth credentials are stored locally and are
+    not published on this website.
+  </p>
+
+  <h2>Data sharing and retention</h2>
+  <p>
+    This personal backup configuration does not
+    intentionally share backup contents with
+    third parties. Backup retention is controlled
+    by the user.
+  </p>
+
+  <h2>User control</h2>
+  <p>
+    The user can revoke Google Drive access through
+    their Google Account settings and manage or
+    delete backup files in Google Drive.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    For privacy questions, use the support email
+    listed on the application's Google OAuth
+    consent screen.
+  </p>
+
+  <p><a href="index.html">Back to home</a></p>
+</body>
+</html>
